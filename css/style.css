@@ -1,0 +1,11 @@
+#navbar
+{
+   position: fixed;
+   top: 0;
+}
+
+@media only screen and (max-width: 450px){
+body{
+background-color: blue;
+}
+}
